@@ -1,12 +1,12 @@
 package com.Classes;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.List;
+
 
 public class VideoGame {
     private Long id;
 
-    @JsonProperty("name")
-    private String name;
+    List<League> leagues;
 
     public Long getId() {
         return id;
@@ -16,12 +16,13 @@ public class VideoGame {
         this.id = id;
     }
 
-    public String getName() {
-        return name;
+    public List<League> getLeagues() {
+        return leagues;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setLeagues(List<League> leagues) {
+        this.leagues = leagues;
     }
+
 
 }
