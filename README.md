@@ -1,5 +1,5 @@
 <p align = "center">
-    <img src="https://web.satc.edu.br/wp-content/uploads/2019/04/cropped-logoasatc.png">
+    <img src="[https://web.satc.edu.br/wp-content/uploads/2019/04/cropped-logoasatc.png](https://unisatc.com.br/)">
 </p>
 
 Placar de jogos (consulta jogos em andamento, marca jogos favoritos)
